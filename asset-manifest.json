@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/commonflappy/static/css/main.f251f349.css",
+    "main.js": "/commonflappy/static/js/main.4faa365a.js",
+    "index.html": "/commonflappy/index.html",
+    "main.f251f349.css.map": "/commonflappy/static/css/main.f251f349.css.map",
+    "main.4faa365a.js.map": "/commonflappy/static/js/main.4faa365a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.4faa365a.js"
+  ]
+}
